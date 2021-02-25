@@ -7,5 +7,4 @@ npm run dev
 then should migrate the db (php artisan migrate)
 after that you can run the project by using php artisan serve command
 copy the link on the brower and ur ready to go!
-Note : Admin has an email of Admin@gmail.com and Password: password  
-also i am not sure about what will happen if you use the same .env file.
+Note : Admin has an email of Admin@gmail.com and Password: password 
